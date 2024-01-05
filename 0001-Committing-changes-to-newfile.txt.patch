@@ -1,0 +1,21 @@
+From a54d791509e9e8e503bd02a7c662d215ff267672 Mon Sep 17 00:00:00 2001
+From: AsifAliSoftage <Asifalimzn12@gmail.com>
+Date: Thu, 4 Jan 2024 17:05:24 +0530
+Subject: [PATCH] Committing changes to newfile.txt
+
+---
+ newfile.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/newfile.txt b/newfile.txt
+index 7e6b1f2..322a916 100644
+--- a/newfile.txt
++++ b/newfile.txt
+@@ -4,3 +4,4 @@ This is little change
+ new
+ new
+ some new
++This is 
+-- 
+2.43.0
+
