@@ -1,0 +1,20 @@
+From f16261203058d8866b81bbcd6164f835ef248369 Mon Sep 17 00:00:00 2001
+From: AsifAliSoftage <Asifalimzn12@gmail.com>
+Date: Thu, 4 Jan 2024 12:24:40 +0530
+Subject: [PATCH 08/10] Commit in main with conflicting changes
+
+---
+ example.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 example.txt
+
+diff --git a/example.txt b/example.txt
+new file mode 100644
+index 0000000..9ba5d2e
+--- /dev/null
++++ b/example.txt
+@@ -0,0 +1 @@
++This is a conflicting change in main
+-- 
+2.43.0
+

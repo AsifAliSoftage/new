@@ -1,0 +1,22 @@
+From 03a1f66d379cff771fdb6f57ce822fea7e07364d Mon Sep 17 00:00:00 2001
+From: AsifAliSoftage <Asifalimzn12@gmail.com>
+Date: Thu, 4 Jan 2024 12:45:55 +0530
+Subject: [PATCH 10/10] Merge new branch: Implement new feature
+
+---
+ example.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/example.txt b/example.txt
+index 9ba5d2e..ce3d8e4 100644
+--- a/example.txt
++++ b/example.txt
+@@ -1 +1,5 @@
++<<<<<<< HEAD
+ This is a conflicting change in main
++=======
++This is a change in feature-branch
++>>>>>>> branchnew
+-- 
+2.43.0
+

@@ -1,1 +1,6 @@
-This is patch file
+diff --git a/patchfile.patch b/patchfile.patch
+index f251c8f..e69de29 100644
+--- a/patchfile.patch
++++ b/patchfile.patch
+@@ -1 +0,0 @@
+-This is patch file
