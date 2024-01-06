@@ -5,3 +5,4 @@ new
 new
 some new
 Newfile.txt
+new
