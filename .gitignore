@@ -1,0 +1,8 @@
+# Ignore temporary files
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore a specific file
+path/to/file.txt
