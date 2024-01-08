@@ -14,3 +14,4 @@ Ne file
 new changes in file
 >>>>>>> Stashed changes
 new changes
+New changes into newFiles
