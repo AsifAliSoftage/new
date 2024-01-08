@@ -4,4 +4,12 @@ This is little change
 new
 new
 some new
+<<<<<<< Updated upstream
 This is content which will added into main
+=======
+This is 
+This is concise commit message here
+add
+Ne file 
+new changes in file
+>>>>>>> Stashed changes
