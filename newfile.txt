@@ -20,3 +20,4 @@ new content added
 Governance changes
 document  changes
 this is new changes
+added some content into newfile.txt

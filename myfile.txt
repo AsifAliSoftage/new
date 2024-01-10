@@ -1,1 +1,2 @@
 This is new file into new branch
+modification in myfile.txt
